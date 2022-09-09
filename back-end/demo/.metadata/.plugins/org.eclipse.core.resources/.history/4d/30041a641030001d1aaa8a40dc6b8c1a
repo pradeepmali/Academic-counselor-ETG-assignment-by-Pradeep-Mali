@@ -1,0 +1,7 @@
+package com.login.task.demo.models;
+import javax.persistence.*;
+@Entity
+@Table(name = "roles")
+public class Role {
+
+}

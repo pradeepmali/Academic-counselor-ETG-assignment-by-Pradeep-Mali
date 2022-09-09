@@ -1,0 +1,5 @@
+package com.login.task.demo.repository;
+
+public interface UserRepositiry {
+
+}
